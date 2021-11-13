@@ -74,6 +74,7 @@ section{
 
     </header>
 
+    
     <section>
     @yield('content')
     </section>
